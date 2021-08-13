@@ -3,6 +3,20 @@
     width: auto;
 }
 
-h3 {
+h3, hr {
     text-align: center;
+    color: green;
+}
+
+.warning {
+    color: red;
+    font-size: 20px;
+    border-style: solid;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.selected {
+    color: purple;
 }
